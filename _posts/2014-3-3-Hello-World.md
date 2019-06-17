@@ -1,12 +1,12 @@
 ---
 layout: post
-title: You're up and running!
+title: Test_Post
 published: true
 ---
 
-post_test
+Test_Post
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+Cute github character!!!!!!!!!!
+![_config.yml]({{ site.baseurl }}/images/404.jpg)
 
-I don't have programing group activity
-
+I don't have programing group activity :(
